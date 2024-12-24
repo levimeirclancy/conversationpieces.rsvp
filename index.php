@@ -5,8 +5,6 @@ echo "<br>";
 echo "<br>";
 echo "<br>";
 
-echo "Conversation Pieces";
-echo "<br>";
 echo "Conversation Pieces fosters meaningful dialogue and reflection on Jewish identity, heritage, and resilience through throught-provoking artifacts.";
 
 echo "<br>";
